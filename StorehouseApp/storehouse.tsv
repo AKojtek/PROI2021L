@@ -1,0 +1,19 @@
+[Magazyn Testowy]	12	15
+Cost Information:
+How_Long_is_ShortTerm:	87
+Penalty_multiplier:	2
+LongTerm:	6
+Shorterm:	8
+Exclusive:	10
+Wholesale:	9
+Clients:
+1	[Adam Nowak]	[Grodzisk Mazowiecki]	242789564
+2	[Jan Kowalski]	[Warszawa]	645789234
+3	[Grzegorz Wysocki]	[Otwock]	678456334
+Products:
+1	0	0	4	4	LongTerm	2	[Fotel]	4	4	10-06-2021
+1	0	4	2	7	LongTerm	5	[Obraz]	3	2	10-06-2021
+1	11	13	12	15	Exclusive	1	[Srebro]	2	1	10-06-2021	31-08-2021	qwerty
+2	0	7	1	9	Wholesale	3	[Sztucce]	2	1	10-06-2021	15-07-2021
+2	11	12	12	13	Exclusive	6	[Naszyjniki]	1	1	10-06-2021	10-07-2021	qwerty
+3	0	9	1	10	ShortTerm	4	[Ziemniak]	1	1	10-06-2021	24-06-2021
